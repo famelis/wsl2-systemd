@@ -12,7 +12,6 @@ apt-get update
 apt-get install apt-transport-https
 apt-get update
 
-# VER="3.1"
-# apt-get install dotnet-sdk-$VER
-# apt-get install aspnetcore-runtime-$VER
-# apt-get install dotnet-runtime-$VER
+apt-get install dotnet-sdk-3.0
+# apt-get install aspnetcore-runtime-3.0
+# apt-get install dotnet-runtime-3.0
