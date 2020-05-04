@@ -15,7 +15,7 @@ A quick way into a systemd "bottle" for WSL2. Notes about installation in Debian
 
 ## Install into WLS2 distribution
 
-sudo [1-dotnet-debian-repo.sh](https://github.com/famelis/wsl2-systemd/raw/master/1-dotnet-debian-repo.sh)
-sudo [2-wsl-translinux-repo.sh](https://github.com/famelis/wsl2-systemd/raw/master/2-wsl-translinux-repo.sh)
++ sudo [1-dotnet-debian-repo.sh](https://github.com/famelis/wsl2-systemd/raw/master/1-dotnet-debian-repo.sh)
++ sudo [2-wsl-translinux-repo.sh](https://github.com/famelis/wsl2-systemd/raw/master/2-wsl-translinux-repo.sh)
 
 Version: 1.0.0
